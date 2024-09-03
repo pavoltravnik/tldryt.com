@@ -1,0 +1,17 @@
+TLDR Summary:
+
+Pieter experienced a low point in his life after graduating university in Holland. While his friends got normal jobs, he was making money from YouTube but felt disconnected from his peers. At 27, he experienced a crisis (referred to as "Saturn return") and decided to become a digital nomad in Asia for a year. This experience made him feel worse, as he was alone and his income decreased significantly.
+
+Feeling like an outcast and depressed, Pieter started building startups based on his father's advice to "get sand, get shovel, start shoveling, doing something" instead of just talking about depression. He began a project called "12 Startups in 12 Months," where he would create and launch a new project each month with a Stripe payment button.
+
+The conversation also touches on how Stripe has revolutionized online payments, making it much easier for entrepreneurs to set up payment systems compared to the complicated process of obtaining merchant accounts in the past.
+
+Noteworthy Quotes:
+
+1. "If you're depressed, you need to get sand, get shovel, start shoveling, doing something. You can't just sit still." - Pieter's father's advice
+
+2. "I was looking at the ceiling thinking like, 'Now I'm 27, I'm a loser.' And that's the moment when I started building startups."
+
+3. "There's something with 27, man." - Referring to the concept of "Saturn return" and the age at which many artists have died
+
+4. "Before Stripe, you would have like, I think it was called Worldpay. So I had to fill out all these forms, and then I had to fax them to America from Holland with my dad's fax." - Pieter describing the old process of setting up online payments

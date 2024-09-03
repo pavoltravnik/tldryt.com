@@ -1,0 +1,17 @@
+TLDR summary:
+
+Pieter Levels created Hoodmaps, a crowdsourced mapping tool that allows users to color-code and label different areas of cities based on characteristics like "hipster," "tourist," or "rich." He built it in just a few days, documenting the process. The app uses HTML5 Canvas to draw colored pixels over Google Maps, with users contributing data that is aggregated to create the final map. Users can also add and upvote text labels for specific locations.
+
+Hoodmaps went viral but has been difficult to monetize. It's expensive to run due to map hosting costs, but Levels keeps it going because he believes it's a cool product that should exist.
+
+Levels also created Nomad List, a site that ranks cities for digital nomads based on factors like internet speed, cost of living, and safety. It started as a crowdsourced spreadsheet but now incorporates data from official sources. The site has a community aspect, with members checking in to cities and organizing meetups.
+
+The conversation touched on challenges of finding good workspaces when traveling and issues with hotel/airline websites. Levels theorized these sites don't improve because companies lack incentive, while the interviewer suggested bureaucracy might prevent talented engineers from making changes.
+
+Notable quotes:
+
+"I also realized, you don't need to monetize everything. Some products are just cool and it's cool to have Hoodmaps exist."
+
+"I think map apps are very hard to like monetize. Google Maps also doesn't really make money."
+
+"Why does every airline website suck when you try book a flights? It's very strange. Why doesn't the best website win?"

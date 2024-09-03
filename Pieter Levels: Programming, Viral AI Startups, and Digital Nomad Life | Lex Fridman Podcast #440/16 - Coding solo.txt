@@ -1,0 +1,22 @@
+TLDR Summary:
+
+Pieter Levels, a successful solo developer, discusses his preference for working alone and his challenges with collaborative coding. Key points include:
+
+1. Levels prefers working solo due to trust issues and a desire to avoid compromise.
+2. He believes consensus-driven decision-making leads to average results.
+3. Levels has rarely coded with others, with one exception being a 10-month collaboration on an AI project.
+4. He struggled when a developer tried to rewrite his jQuery code in Vue.js.
+5. The importance of "code empathy" is discussed - understanding and respecting existing code before suggesting changes.
+6. Levels acknowledges that finding skilled developers who can adapt to different tech stacks is challenging.
+7. The conversation touches on the strengths of PHP and jQuery, highlighting their speed and large communities.
+8. Lex Fridman suggests approaching collaboration by assuming the other person is a genius and learning from their style.
+9. Levels admits he might need to hire more people but finds the process energy-consuming.
+10. He's content with his current workflow, although he acknowledges areas for improvement in his projects.
+
+Noteworthy Quotes:
+
+1. "I think it breeds like averageness, you get an average idea, average company, average culture, you need to have a leader or you need to be solo and just do it, do it yourself, I think." - Pieter Levels on consensus-driven decision-making
+
+2. "Empathy, it's like code empathy, right? You need to understand, go over the code, get a holistic view of it." - Pieter Levels on the importance of understanding existing code
+
+3. "I think I like working with people where when I approach them, I pretend in my head that they're the smartest person who has ever existed." - Lex Fridman on his approach to collaboration

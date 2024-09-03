@@ -1,0 +1,29 @@
+TLDR Summary (10-50 sentences):
+
+The conversation discusses the challenges and potential of robotics companies, comparing them to other emerging technologies like VR. Key points include:
+
+1. Many robotics companies have failed due to high costs and insufficient intelligence to create compelling products.
+
+2. Some technologies, like robotics and VR, are currently solutions looking for problems.
+
+3. The personal computer's success came from captivating people's imagination and finding killer apps.
+
+4. There are few robots in homes currently, with limited intelligence (e.g., Roombas, Alexa).
+
+5. The speakers discuss the idea of finding one's purpose in life and the importance of being open to change.
+
+6. They emphasize the value of "surfing the waves" of life rather than trying to control everything.
+
+7. The conversation touches on psychedelic experiences and the importance of letting go of control.
+
+8. When building a product or startup, it's crucial to use familiar technology and validate the market.
+
+9. Crowdsourcing can be a powerful tool for gathering data and building products.
+
+10. The speakers share experiences with public spreadsheets and how they can evolve into larger projects.
+
+Noteworthy quotes:
+
+"I think most stress comes from trying to control, like hold things... It's kind of Buddhist. You need to like lose control, let it loose. And things will happen."
+
+"The tech stack is not actually, it's not the most important of a business when you're starting on a business. The important thing is that you validate that there's a market, that there's a product that people wanna pay for."

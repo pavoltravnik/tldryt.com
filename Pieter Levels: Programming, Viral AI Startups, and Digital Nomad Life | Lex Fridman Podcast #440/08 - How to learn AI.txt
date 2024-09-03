@@ -1,0 +1,25 @@
+TLDR (Too Long; Didn't Read) Summary:
+
+1. To learn about state-of-the-art AI tools, join Twitter/X and follow AI researchers and developers, many of whom use anime avatars.
+
+2. Replicate is recommended as a platform to start experimenting with AI models.
+
+3. The speaker improved their Photo AI tool by A/B testing different parameters on a subset of users and measuring engagement.
+
+4. Many developers still use Stable Diffusion 1.5 despite newer versions, due to its performance and lack of restrictions.
+
+5. The open-source nature of some AI models has created an ecosystem of small companies benefiting from them, while the original creators struggle to monetize.
+
+6. For generating ideas, the speaker uses simple tools like Telegram's saved messages rather than complex note-taking systems.
+
+7. The first idea that comes to mind is often valuable because it emerges from the subconscious after long periods of background processing.
+
+8. Timing is crucial for startup ideas – sometimes the world isn't ready for an idea yet.
+
+Notable Quotes:
+
+"I think you need to join Twitter X. X is amazing now and the whole AI industry is on X, and they're all like anime avatars."
+
+"Unlike 10% of the users, I would randomly test parameters, and then I would see if they would, 'cause you can favor the photo or you can download it. I would measure if they favorite or like the photo."
+
+"The first idea submerges from your subconscious, and was actually boiling your brain for weeks, months, sometimes years in the background. The eight hours of thinking can never compete with a perpetual subconscious background job."

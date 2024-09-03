@@ -1,0 +1,23 @@
+TLDR:
+
+Pieter Levels discusses his journey in creating Photo AI, a platform that generates AI photos of people. He started by experimenting with Stable Diffusion, creating websites like thishousedoesnotexist.org and interiorai.com. He then discovered he could train models on his own face, leading to avatarai.me, which went viral and made $150,000 in a week. This evolved into Photo AI, a more sophisticated platform for realistic AI-generated photos.
+
+Key points:
+- Photo AI uses a simple tech stack: vanilla HTML, JavaScript, jQuery, PHP, and SQLite
+- Levels argues against the overuse of complex frameworks in software development
+- He initially processed avatar requests manually before automating the system
+- The platform uses Replicate for AI model hosting and computation
+- Fine-tuning models on human faces involves many "hacks" and challenges
+- People often don't know how they truly look, leading to misconceptions about AI-generated images
+- Diverse training data is crucial for creating accurate AI models of people
+- Levels emphasizes the importance of focusing on content and results rather than expensive equipment
+
+Notable quotes:
+
+"I think it's suspicious. When I talk about it on the Twitter, there's this army comes out. There's these framework armies."
+
+"Do things that don't scale. Paul Graham says, right?"
+
+"We don't really know how this thing works, but it does something. But nobody really knows why, right? We cannot look into the model of an LLM, like what is actually in there."
+
+"What matters is probably the content of the podcast."
